@@ -12,68 +12,89 @@
 </p>
 <hr/>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/55304067/132936029-85c866dc-8249-4f8a-a61e-e87f5ad27036.png" width="500px" alt="Arkademylogo.svg" /></p>
-<h3 align="center">
-  Home pages
-</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/55304067/132936087-7fe9612c-8e82-43f4-8f45-9fae3536f15e.png" width="500px" alt="Arkademylogo.svg" /></p>
-<h3 align="center">
-  Login pages
-</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/55304067/133192629-28fd3a55-fd10-48da-96cd-9a4f9f6173f6.png" width="500px" alt="Arkademylogo.svg" /></p>
-<h3 align="center">
-  Register pages
-</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/55304067/132936103-3389b590-16e2-47bd-9123-88200d17e03f.png" width="500px" alt="Arkademylogo.svg" /></p>
-<h3 align="center">
-  Search pages
-</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/55304067/132936118-c576d560-8eac-4f54-8049-9297e5116033.png" width="500px" alt="Arkademylogo.svg" /></p>
-<h3 align="center">
-  Profile pages
-</h3>
+<table>
+  <tr>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/134828719-fed515d9-db65-42f8-a562-a8a69fa865f8.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/133918703-4bdedf54-05d1-40ce-b1e9-c5d258334bc2.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+  </tr>
+ <tr>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/134828764-8495ceea-04d1-433e-bfb5-060cd5a41653.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/134828785-7ebe5ce7-a784-4519-8aee-9bb26d7a274c.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th> 
+      <img src="https://user-images.githubusercontent.com/55304067/134828799-123f485f-b013-4670-864e-ff508fbe3638.png" width="300px" alt="Arkademylogo.svg" />
+   </th>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/134828834-40eb194d-1e2a-481e-addc-b20ed18a01e6.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+    <th>
+      <img src="https://user-images.githubusercontent.com/55304067/134828846-d6e1783b-8cea-4315-893d-cff8e987fbf5.png" width="300px" alt="Arkademylogo.svg" />
+    </th>
+  </tr>
+</table>
 <p align="center">
-    <a href="http://www.ankasa.online/" target="blank">View Demo</a>
-  · <a href="https://github.com/Gustiana882/front-ticketing/issues">Report Bug</a>
-  · <a href="https://github.com/Gustiana882/front-ticketing/pulls">Request Feature</a>
+    <a href="https://ankasa.online" target="blank">View Demo</a>
+  · <a href="https://github.com/wsaefulloh/front-ticketing/issues">Report Bug</a>
+  · <a href="https://github.com/wsaefulloh/front-ticketing/pulls">Request Feature</a>
 </p>
 
 
-## 💻 Built with
+## Built with
 
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
 [![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.13.3-blue.svg?style=rounded-square)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-v.6.2-red.svg?style=rounded-square)](https://redis.io/)
 
+## Description about project
+Angkasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the front, Node Js and Express Js on the back. The database used on this website is based on PostgreSQL which is operated using sequel. The features available on this website include flight search features, flight filters, and transit filters.
 
-## 🛠️ Installation Steps
+## Installation Steps
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/Gustiana882/front-ticketing.git
-```
+   ```bash
+    https://github.com/wsaefulloh/front-ticketing
+    ```
 
 2. Install dependencies
 
-```bash
-npm install
-```
+   ```bash
+   yarn install
+   ```
 
-3. Run the app
+3. Add .env file at root folder project
 
-```bash
-npm start
-```
+   ```sh
+   REACT_APP_API = [Backend API]
+   ```
 
+4. Run the app
 
-### `Backend Ticketing Repository`
- <a href="https://github.com/Gustiana882/back-ticketing" target="blank">https://github.com/Gustiana882/back-ticketing</a>
+   ```bash
+   yarn start
+   ```
 
-```bash
-git clone https://github.com/Gustiana882/back-ticketing.git
-```
+5. You are all set!
+
+   ```bash
+   View the website at: http://localhost:3000
+   ```
+
+## Backend Repository
+Backend API : Ankasa - Backend [here](https://github.com/wsaefulloh/back-ticketing)
 
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
