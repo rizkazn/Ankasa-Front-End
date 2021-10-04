@@ -46,8 +46,8 @@
 </table>
 <p align="center">
     <a href="https://ankasa.online" target="blank">View Demo</a>
-  · <a href="https://github.com/wsaefulloh/front-ticketing/issues">Report Bug</a>
-  · <a href="https://github.com/wsaefulloh/front-ticketing/pulls">Request Feature</a>
+  · <a href="https://github.com/rizkazn/front-ticketing.git/issues">Report Bug</a>
+  · <a href="https://github.com/rizkazn/front-ticketing.git/pulls">Request Feature</a>
 </p>
 
 
@@ -66,7 +66,7 @@ Angkasa is a flight ticket booking application project that was built and develo
 1. Clone the repository
 
    ```bash
-    https://github.com/wsaefulloh/front-ticketing
+    https://github.com/rizkazn/front-ticketing.git
     ```
 
 2. Install dependencies
@@ -94,7 +94,7 @@ Angkasa is a flight ticket booking application project that was built and develo
    ```
 
 ## Backend Repository
-Backend API : Ankasa - Backend [here](https://github.com/wsaefulloh/back-ticketing)
+Backend API : Ankasa - Backend [here](https://github.com/rizkazn/back-ticketing.git)
 
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
