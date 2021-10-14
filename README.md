@@ -16,31 +16,39 @@
   <tr>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828719-fed515d9-db65-42f8-a562-a8a69fa865f8.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Login</p>
     </th>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/133918703-4bdedf54-05d1-40ce-b1e9-c5d258334bc2.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Register</p>
     </th>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Forgot Password</p>
     </th>
   </tr>
  <tr>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828764-8495ceea-04d1-433e-bfb5-060cd5a41653.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Home Page</p>
     </th>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828785-7ebe5ce7-a784-4519-8aee-9bb26d7a274c.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Filter Flight</p>
     </th>
     <th> 
       <img src="https://user-images.githubusercontent.com/55304067/134828799-123f485f-b013-4670-864e-ff508fbe3638.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Form Booking</p>
    </th>
   </tr>
   <tr>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828834-40eb194d-1e2a-481e-addc-b20ed18a01e6.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Booking Page</p>
     </th>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828846-d6e1783b-8cea-4315-893d-cff8e987fbf5.png" width="300px" alt="Arkademylogo.svg" />
+      <p align="center">Notification</p>
     </th>
     <th>
       <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144322/SS%20Ankasa/6_kr2fxt.png" width="300px" alt="Arkademylogo.svg" />
