@@ -42,6 +42,10 @@
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828846-d6e1783b-8cea-4315-893d-cff8e987fbf5.png" width="300px" alt="Arkademylogo.svg" />
     </th>
+    <th>
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144322/SS%20Ankasa/6_kr2fxt.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Chat</p>
+    </th>
   </tr>
 </table>
 <p align="center">
