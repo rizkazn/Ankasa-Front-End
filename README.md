@@ -58,7 +58,7 @@
   <tr>
     <th>
       <img src="https://res.cloudinary.com/rizkazn/image/upload/v1635496472/ARCHITECTURE_page-0001_cmzrnu.jpg" width="300px" alt="Arkademylogo.svg" />
-        <p align="center">Chat</p>
+        <p align="center">Architecture</p>
     </th>
   </tr>
 </table>
