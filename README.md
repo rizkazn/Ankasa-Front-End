@@ -112,7 +112,7 @@ Ankasa is a flight ticket booking application project that was built and develop
    ```
 
 ## Backend Repository
-Backend API : Ankasa - Backend [here](https://github.com/rizkazn/Ankasa-Rest-API.git)
+Backend API : Ankasa - Backend [here](https://github.com/rizkazn/Ankasa-Rest-API)
 
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
